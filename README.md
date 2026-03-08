@@ -4,4 +4,4 @@ This repository contains my verilog design projects
 
 Author :
 G.Laxmi Sravani
-ECE Student | VLSSI Enthusiast
+ECE Student | VLSI Enthusiast
