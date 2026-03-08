@@ -25,9 +25,8 @@ module tb_fifo;
     always #5 clk = ~clk;
 
     initial begin
-        // Dump waveform
-        $dumpfile("fifo.vcd");
-        $dumpvars(0, tb_fifo);
+        $dumpfile("dump.vcd");
+        $dumpvars(1);
 
         // Reset
         rst = 1; wr_en = 0; rd_en = 0; din = 0;
