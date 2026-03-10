@@ -1,4 +1,4 @@
-# Day 6 – Traffic Light Controller (Verilog)
+# Traffic Light Controller (Verilog)
 
 ## Overview
 
